@@ -1,10 +1,10 @@
 {
-  "name": "simple-cli",
+  "name": "codepeople",
   "version": "0.0.1",
   "description": "Simple CLI to show my info",
   "main": "bin/index.js",
   "bin": {
-    "simple-cli": "bin/index.js"
+    "codepeople": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
